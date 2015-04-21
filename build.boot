@@ -3,7 +3,7 @@
 (set-env!
   :source-paths #{"src"}
   :resource-paths #{"resources"}
-  :dependencies '[[org.clojure/clojure "1.7.0-beta1"]
+  :dependencies '[[org.clojure/clojure "1.7.0-alpha4"]
                   [com.stuartsierra/component "0.2.3"]])
 
 (deftask build
